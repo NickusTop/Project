@@ -90,7 +90,7 @@ header {
     padding: 0;
 }
 .back {
-    background-image: url(/backn.png);
+    background-image: url(./backn.png);
     background-size: 1349px;
     width: 1349px;
     height: 800px;
@@ -169,7 +169,7 @@ header {
     cursor: pointer;
 }
 .back1 {
-    background-image: url(/backn1.png);
+    background-image: url(./backn1.png);
     margin: 0;
     padding: 0;
     width: 1349px;
@@ -256,7 +256,7 @@ header {
     margin-bottom: 20%;
  }
  .back2 {
-    background-image: url(/backn2.png);
+    background-image: url(./backn2.png);
     margin: 0;
     padding: 0;
     width: 1349px;
@@ -394,7 +394,7 @@ header {
     margin-top: 0;
 }
 .back3 {
-    background-image: url(/backn3.png);
+    background-image: url(./backn3.png);
     margin: 0;
     padding: 0;
     width: 1349px;
